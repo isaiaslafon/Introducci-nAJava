@@ -1,4 +1,4 @@
-# IntroduccionAJava
+# Introduccion a Java
 Transición e Introducción a Java de Wollok
 
 Enunciado:
